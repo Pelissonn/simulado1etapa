@@ -1,0 +1,26 @@
+*{margin: 0;}
+
+table{
+         height: 100vh;
+         width: 100%;
+         background-color: lightgray;
+}
+
+#linha1{height: 150px;}
+#linha2{height: 160px;}
+#linha3{height: 200px;}
+#linha4{height: 60px;}
+#linha5{height: 60px;}
+
+#td1{width: 20%;
+text-align: left;}
+#td2{width: 80%;}
+#td3{width: 15% ;}
+#td4{width: 20%;
+    vertical-align: top; text-align: center;}
+#td5{width: 15%;}
+#td6{width: 20% ;}
+#td7{width: 5% ;}
+#td8{width: 25%;
+    text-align: justify; padding: 1%; vertical-align: top;}
+
